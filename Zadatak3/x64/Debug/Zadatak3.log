@@ -1,0 +1,4 @@
+﻿  Source.cpp
+  cl_version.h: CL_TARGET_OPENCL_VERSION is not defined. Defaulting to 220 (OpenCL 2.2)
+D:\OPOS\Zadatak3\Zadatak3\Source.cpp(437,78): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+  Zadatak3.vcxproj -> D:\OPOS\Zadatak3\x64\Debug\Zadatak3.exe
