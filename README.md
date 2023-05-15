@@ -1,4 +1,4 @@
-# Conway-s-game-of-life, Faculty of Electrical Engineering, 2022
+# Conway-s-game-of-life, Faculty of Electrical Engineering, 2021
 Application specification
 
 A simple console application that represent Conway's Game of Life. 
